@@ -650,11 +650,6 @@ a:hover{
   }
 }
 /* ********* form ************* */
-.navbar-brand {
-  padding-bottom: 2.3125rem !important;
-}
-
-
 :root{
   --succes-color: #2ecc71;;
   --error-color: #e74c3c;
