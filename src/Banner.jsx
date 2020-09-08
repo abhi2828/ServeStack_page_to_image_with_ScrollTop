@@ -19,6 +19,9 @@ const Banner = () => {
                                 <NavLink exact to="/sign_up"> <button type="button" className="btn btns btn-outline-danger header_btn active">Try Now</button></NavLink>
                                 </div>
                             </div>
+                            <div className="col-md-6 banner_items_video" style={{paddingTop:'15px'}}>
+                                <iframe width="100%" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1"></iframe>
+                            </div>
                         </div>
                     </div>
                 </section>
